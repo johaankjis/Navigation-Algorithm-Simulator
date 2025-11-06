@@ -2,8 +2,6 @@
 
 An interactive web-based visualization tool for comparing various pathfinding algorithms in real-time. This simulator allows users to create custom obstacles and watch different algorithms find the optimal path from start to end.
 
-![Navigation Algorithm Simulator](public/placeholder.svg)
-
 ## 🚀 Features
 
 - **Interactive Grid Interface**: Click and drag to create walls and obstacles
